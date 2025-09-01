@@ -1,3 +1,3 @@
 # New Project
- This  project  was created from local System 
+ This is basic Html Css Page 
  Created by Shivam Kewat.
